@@ -42,7 +42,7 @@ role: $inherited.types.copy-regular
 -- end: ftd.column
 
 -- ftd.image:
-src: $assets.files.foodie.png
+src: $assets.files.assets.foodie.png
 height: fill-container
 border-radius.px: 20
 
